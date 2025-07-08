@@ -52,7 +52,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.shaninfotech.testCaseEx.testcase</mainClass>
+            <mainClass>com.shaninfotech.testCaseEx.testcase.App</mainClass>
           </manifest>
         </archive>
       </configuration>
