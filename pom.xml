@@ -52,7 +52,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.shanifotech.flightJdbcApp.App</mainClass>
+                            <mainClass>com.shaninfotech.testCaseEx.testcase.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
